@@ -97,7 +97,7 @@ class PageIngresarDatos extends StatelessWidget {
                   ),
                 ),
                 child: const Text(
-                  'Calcular Edad',
+                  'Calcular Intermedios',
                   style: TextStyle(fontSize: 18, color: Colors.white),
                 ),
               ),
